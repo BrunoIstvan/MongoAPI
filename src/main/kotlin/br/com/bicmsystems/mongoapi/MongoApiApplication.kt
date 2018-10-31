@@ -1,4 +1,4 @@
-package br.com.bicmsystems.MongoAPI
+package br.com.bicmsystems.mongoapi
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
